@@ -10,6 +10,6 @@ justTheNumbers = justTheNumbers.map(Number);
 
 var addedInputNumbers = justTheNumbers.reduce(function add (a, b){
   return a + b
-}, 0); // 0 as the second argument, as a starting number to add to.
+}, 0); // 0 as the second argument, as a number to start adding to.
 
 console.log(addedInputNumbers);
