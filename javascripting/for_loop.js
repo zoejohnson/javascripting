@@ -6,3 +6,6 @@ for (var i = 0; i < limit; i++) {
 }
 
 console.log(total)
+
+// Arguments for for loop: (where you want to start, what your
+// limit is, how to get to your limit)

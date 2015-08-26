@@ -5,3 +5,5 @@ var pizza = {
 }
 
 console.log(pizza)
+
+// 'Objects' in JS are basically dictionaries/hashes. What's the diff?
